@@ -16,4 +16,8 @@
 
 ## Day4
 1. **Task 1**: [Basic CSS Styles] (https://determined-mestorf-102e1e.netlify.com/).
-2. **Task 2**:animate.css (static web css library)
+2. **Task 2**: animate.css (static web css library)
+
+## Day5
+1. **Task 1**:
+2. **Task 2**: 
