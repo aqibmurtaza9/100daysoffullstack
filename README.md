@@ -13,3 +13,6 @@
 
 ## Day3
 1. **Task 1**: Create a portfolio site for solution anywhere company.
+
+## Day4
+1. **Task 2**: [Basic CSS Styles] (https://determined-mestorf-102e1e.netlify.com/)
